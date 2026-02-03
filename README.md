@@ -1,7 +1,3 @@
-Отлично! Давай сделаем уникальный, «человечный» и образовательный README для репозитория на тему «Почему VPN может не работать». Мы также встроим твою ссылку органично, без рекламного спама. Вот пример:
-
----
-
 # Why Your VPN Might Not Be Working
 
 This repository explores common reasons why VPN connections fail and how to troubleshoot them. It is designed as an educational guide to help both beginners and experienced users understand VPN issues.
